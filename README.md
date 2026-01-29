@@ -48,7 +48,7 @@ Keterbatasan Project ini:
 * Install the required tools:
 
   ```bash
-  python 3.10 kebawah dikarenakan opencv untuk python 3.10 keatas belum optimal
+  python===3.10
   opencv-python==4.8.0
   ultralytics==8.0.0
   numpy==1.24.0
